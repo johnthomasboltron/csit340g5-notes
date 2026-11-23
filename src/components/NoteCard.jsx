@@ -1,4 +1,3 @@
-
 import { useState, useContext } from 'react'
 import { SettingsContext } from '../SettingsContext.js'
 
